@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "58f57857ce308c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72e036e21a59571",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6c29b0a320cfcf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "086d30061fb01f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1813febfdebefefb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20b5c1b86c8d7a5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb4f3ed35d8dd33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c04ee71a6d53775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c8f8720b3c417f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d72e036e21a59571",
+  "lastOpenFiles": [
+    "README.md",
+    "5. Compliance/5.1 Determining regulatory requirements for the cloud.md",
+    "4. Operations management/4.2 Configuring logging, monitoring, and detection.md",
+    "4. Operations management/4.1 Building and deploying secure infrastructure and applications.md",
+    "3. Data protection/3.2 Managing encryption at rest.md",
+    "3. Data protection/3.1 Protecting sensitive data.md",
+    "2. Network security/2.3 Establishing private connectivity.md",
+    "2. Network security/2.2 Configuring network segmentation.md",
+    "2. Network security/2.1 Designing network security.md",
+    "2. Network security/Untitled 3.md"
+  ]
+}
