@@ -1,8 +1,8 @@
 # GCP-PCSE
 [GCP Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer) certification prep.\
-Notes are created using [Obsidian](https://obsidian.md/) ane are aligned with the official [exam guide](https://cloud.google.com/certification/guides/cloud-security-engineer).
+Notes are created using [Obsidian](https://obsidian.md/) and are aligned with the official [exam guide](https://cloud.google.com/certification/guides/cloud-security-engineer).
 
-**Learning resources:**\
+**Learning resources:**
 - [Google security whitepaper](https://cloud.google.com/security/overview/whitepaper)
 - [Coursera](https://www.coursera.org/professional-certificates/google-cloud-security)
 - [A Cloud Guru](https://acloudguru.com/course/google-cloud-certified-professional-clou\d-security-engineer)
