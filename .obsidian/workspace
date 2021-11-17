@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "README.md",
     "1. Access management/1.1 Configuring Cloud Identity.md",
-    "1. Access management/1.5 Defining resource hierarchy.md",
+    "1. Access management/1.2 Managing service accounts.md",
     "5. Compliance/5.1 Determining regulatory requirements for the cloud.md",
+    "Pasted image 20211117160125.png",
+    "1. Access management/1.5 Defining resource hierarchy.md",
     "4. Operations management/4.2 Configuring logging, monitoring, and detection.md",
     "4. Operations management/4.1 Building and deploying secure infrastructure and applications.md",
     "3. Data protection/3.2 Managing encryption at rest.md",
-    "3. Data protection/3.1 Protecting sensitive data.md",
-    "2. Network security/2.3 Establishing private connectivity.md",
-    "2. Network security/2.2 Configuring network segmentation.md"
+    "3. Data protection/3.1 Protecting sensitive data.md"
   ]
 }
